@@ -12,9 +12,9 @@ This project is a Selenium Automation Framework using:
 ## Features
 - Login functionality testing
 - Customer operations
-- Manager operations
+- Manager operations(Multiple users)
 - Transaction verification
-
+-Extent reporting 
 ## Framework Design
 - Page Object Model
 - Data driven testing
