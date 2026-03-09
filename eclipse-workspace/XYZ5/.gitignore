@@ -1,0 +1,30 @@
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# Java compiled files
+bin/
+*.class
+
+# Maven / Gradle build folders
+target/
+*.jar
+
+# TestNG / Cucumber reports
+test-output/
+reports/
+*.html
+*.xml
+*.json
+
+# IDE files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
